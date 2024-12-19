@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    font-family: monospace;
+    color: green;
+    text-align: center;
+    font-weight: 700;
+}
+#button{
+    font-size: 1.5em;
+    background-color: black;
+    color: green;
+    font-family: monospace;
+    font-weight: 900;
+    border: solid green;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+#button:hover{
+    background-color: green;
+    color: black;
+}
+.input{
+    font-size: 1.5em;
+     background-color: black;
+     color: green;
+     font-family: monospace;
+     font-weight: 900;
+     border: solid green;
+     border-radius: 5px;
+     cursor: text;}
+#p1{
+    font-family: monospace;
+    cursor: not-allowed;
+    font-size: 2em;
+    font-weight: 900;
+    
+}

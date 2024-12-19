@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+    font-family: monospace;
+    color: green;
+    text-align: center;
+}
+#input{
+    background-color: black;
+    color: green;
+    cursor: text;
+    border: green solid;
+    font-family: monospace;
+    font-size: 2em;
+    font-weight: 900;
+    border-radius: 5px;
+}
+#h2{
+    color: green;
+    background-color: black;
+    border: solid green;
+    cursor: pointer;
+    font-weight: 900;
+    font-family: monospace;
+    margin-left: 750px;
+    margin-right:750px;
+    border-radius: 5px;
+    font-size: 2em;
+}
+#button{
+    font-family: monospace;
+    cursor: pointer;
+    font-weight: 900;
+    color: green;
+    border: solid green;
+    background-color: black;
+    border-radius: 5px;
+    font-size: 2em;
+}
+
+#button:hover{
+    background-color: green;
+    color: black;
+}
+#p1{
+    font-family: monospace;
+    cursor: vertical-text;
+    font-weight: 900;
+    color: green;
+    background-color: black;
+    border-radius: 5px;
+    font-size: 2em;
+}
+
+
+
